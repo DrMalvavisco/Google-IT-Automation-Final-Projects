@@ -38,7 +38,9 @@ This is a web interface for a REST end-point. Through this end-point, you can en
     {"title": "Experienced salespeople", "name": "Alex H.", "date": "2020-02-02", "feedback": "It was great to talk to the salespeople in the team, they understood my needs and were able to guide me in the right direction"}
 
 Now, go back to the main page by removing the /feedback from the URL. You can see that the feedback that you just entered is displayed on the webpage.
+
 ![](imgs/2.png)
+
 The whole website is stored in /projects/corpweb. You're free to look around the configuration files. Also, there's no need to make any changes to the website; all interaction should be done through the REST end-point.
 
 ## Process text files and upload to running web server

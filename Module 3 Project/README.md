@@ -84,9 +84,9 @@ To generate a PDF:
 
     - A summary paragraph which contains the most sales/most revenue/most popular year values worked out in the previous step.
 
-Note: To add line breaks in the PDF, use: <br/> between the lines.
-
-    - A table which contains all the information parsed from the JSON file, organised by id_number. The car details should be combined into one column in the form <car_make> <car_model> (<car_year>).
+Note: To add line breaks in the PDF, use: \<br/> between the lines.
+    
+- A table which contains all the information parsed from the JSON file, organised by id_number. The car details should be combined into one column in the form <car_make> <car_model> (<car_year>).
 
 Note: You can use the cars_dict_to_table function for the above task.
 
